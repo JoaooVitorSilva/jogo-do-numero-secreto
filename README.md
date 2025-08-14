@@ -16,8 +16,6 @@ O jogo fornece dicas ("maior" ou "menor") e utiliza **voz sintetizada** para dei
 
 ---
 
----
-
 ## 🛠 Tecnologias Utilizadas
 - **HTML5** → estrutura da página  
 - **CSS3** → estilização e responsividade  
@@ -42,6 +40,10 @@ O jogo fornece dicas ("maior" ou "menor") e utiliza **voz sintetizada** para dei
 - Sons adicionais e animações
 
 ---
+
+## 📥 Link do Projeto
+
+https://jogo-neon-eight-64.vercel.app/
 
 💡 *Se você gostou deste projeto, deixe uma ⭐ no repositório!*
 
